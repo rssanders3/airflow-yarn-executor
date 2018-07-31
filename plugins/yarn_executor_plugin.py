@@ -26,7 +26,7 @@ executor = YarnExecutor
 
 #https://media.readthedocs.org/pdf/knit/latest/knit.pdf
 """
-NOTE: This requires taht airflow be installed in conda to create a virtual env in the yarn containers
+NOTE: This requires that airflow be installed in conda to create a virtual env in the yarn containers
 """
 
 
